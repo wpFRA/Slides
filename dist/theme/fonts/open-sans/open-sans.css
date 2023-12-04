@@ -1,0 +1,19 @@
+@font-face {
+    font-display: optional;
+    font-family: 'Open Sans';
+    src: url('./OpenSans-VariableFont_wdth,wght.woff2') format('woff2 supports variations'),
+      url('./OpenSans-VariableFont_wdth,wght.woff2') format('woff2-variations');
+    unicode-range: U+0020-007F,U+00A0-00FF,U+20AC,U+2010,U+2013,U+2014,U+2018,U+2019,U+201A,U+201C,U+201D,U+201E,U+2039,U+203A,U+2026,U+2022;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-display: optional;
+    font-family: 'Open Sans';
+    src: url('./OpenSans-Italic-VariableFont_wdth,wghtt.woff2') format('woff2 supports variations'),
+      url('./OpenSans-Italic-VariableFont_wdth,wght.woff2') format('woff2-variations');
+    unicode-range: U+0020-007F,U+00A0-00FF,U+20AC,U+2010,U+2013,U+2014,U+2018,U+2019,U+201A,U+201C,U+201D,U+201E,U+2039,U+203A,U+2026,U+2022;
+    font-weight: normal;
+    font-style: italic;
+}
